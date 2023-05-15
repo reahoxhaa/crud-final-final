@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Rea Hoxha",
+      "email": "rea@bbros.eu",
+      "phone": "048699698",
+      "role": "Research and Development"
+    },
+    {
+      "name": "Diana Zymberi",
+      "email": "diana@bbros.eu",
+      "phone": "045678901",
+      "role": "Product Development",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Era Hasimaj",
+      "email": "era@bbros.eu",
+      "phone": "043211456",
+      "role": "Finance"
+    },
+    {
+      "id": 4,
+      "name": "Ardiana Halimi",
+      "email": "arda@bbros.eu",
+      "phone": "049211411",
+      "role": "Administration"
+    },
+    {
+      "name": "Dorentina Batusha",
+      "email": "tina@bbros.eu",
+      "phone": "043514398",
+      "role": "Project Management",
+      "id": 5
+    },
+    {
+      "name": "Zana Bajrami",
+      "email": "zana@bbros.eu",
+      "phone": "043444123",
+      "role": "Human Resources",
+      "id": 6
+    }
+  ]
+}
