@@ -36,11 +36,11 @@
       "id": 5
     },
     {
+      "id": 6,
       "name": "Zana Bajrami",
       "email": "zana@bbros.eu",
       "phone": "043444123",
-      "role": "Human Resources",
-      "id": 6
+      "role": "Product Development"
     }
   ]
 }
